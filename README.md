@@ -1,2 +1,2 @@
-# Kanban-Board
-This repo holds works to be done , doing and completed. This will be incorporated with ZenHub
+# lab-agile-planning
+This repository contains the lab for agile planning
